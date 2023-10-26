@@ -1,11 +1,14 @@
 # Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
 
 <h2>Setup</h2>
-<ol>
+
 There is a requirements.txt file under the root directory. Assuming you have python & a virtualenv already installed, run the below command:
-<li>pip install -r requirements.txt</ol>li>
-There are a few extra requirements, but ignore them. Won't do any harm, later on we'll remove them before submission.
+<ol>
+<li>pip install -r requirements.txt</li>
+<li>There are a few extra requirements, but ignore them. Won't do any harm, later on we'll remove them before submission.
 <li>Then to run the project, run the below command:</li>
+</ol>
+    
 python django_web_app/manage.py runserver
 
 This project was done by me as a assignment for an internship.
