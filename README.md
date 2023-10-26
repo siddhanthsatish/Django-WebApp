@@ -11,8 +11,6 @@ There is a requirements.txt file under the root directory. Assuming you have pyt
     
 python django_web_app/manage.py runserver
 
-This project was done by me as a assignment for an internship.
-
 <h2>Assignment Problem Statement:</h2>
 
 <h4>Part 1:</h4>
